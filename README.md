@@ -2,9 +2,6 @@
 
 
 
-
-# EventCalender
-
 #You Can use it to see swipeable list of profile/images/Card
 #it'll be Animated while swiping
 
